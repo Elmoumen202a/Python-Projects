@@ -1,0 +1,1 @@
+To create QR codes using the Python .
