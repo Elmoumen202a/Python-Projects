@@ -2,7 +2,8 @@ import sounddevice
 from scipy.io.wavfile import write
 
 def voice_recorder(seconds, file):
-    """Record audio for the specified duration and save it to a WAV file.
+    """
+    Record audio for the specified duration and save it to a WAV file.
 
     Parameters:
     - seconds (int): Duration of the recording in seconds.

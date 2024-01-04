@@ -1,0 +1,7 @@
+# createTables.py
+pip install tabulate
+# tests.py
+pip install pytest
+pip install io 
+pip install sys
+
