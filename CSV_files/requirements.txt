@@ -1,0 +1,3 @@
+pip install csv
+pip install  pandas
+
