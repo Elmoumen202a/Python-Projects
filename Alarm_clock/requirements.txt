@@ -1,0 +1,6 @@
+pip install datetime
+pip install playsound
+# tests.py
+pip install io
+pip install pytest
+pip install unittest.mock
