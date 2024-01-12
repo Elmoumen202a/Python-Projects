@@ -15,7 +15,9 @@ This simple Python script fetches current weather information for a given city u
 
     ```bash
     pip install -r requirements.txt
-    ```
+    ```  
+## Output
+![weather](weather.png)
 
 ## Usage
 
@@ -23,6 +25,3 @@ Run the script by executing the following command:
 
 ```bash
 python weather.py
-
-## Output
-![weather](weather.png)
