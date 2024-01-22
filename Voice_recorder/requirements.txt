@@ -1,2 +1,2 @@
-pip install sounddevice
-pip install SciPy
+sounddevice== 0.4.6
+SciPy== 1.12.0
