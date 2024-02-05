@@ -1,5 +1,5 @@
 pytrends==4.9.2
-# test.py
+matplotlib==3.8.2
 unittest ==0.0
 pandas ==2.2.0
 pytest==8.0.0
