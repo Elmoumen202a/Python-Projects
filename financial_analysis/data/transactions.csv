@@ -1,0 +1,19 @@
+Date,Category,Amount,Description
+2023-01-01,Salary,3000,Monthly salary
+2023-01-05,Groceries,-150,Grocery shopping
+2023-01-10,Rent,-1000,Monthly rent
+2023-01-15,Utilities,-100,Electricity bill
+2023-01-20,Transport,-50,Bus pass
+2023-01-25,Entertainment,-60,Movie night
+2023-02-01,Salary,3000,Monthly salary
+2023-02-05,Groceries,-160,Grocery shopping
+2023-02-10,Rent,-1000,Monthly rent
+2023-02-15,Utilities,-120,Water bill
+2023-02-20,Transport,-55,Train pass
+2023-02-25,Entertainment,-80,Concert tickets
+2023-03-01,Salary,3000,Monthly salary
+2023-03-05,Groceries,-140,Grocery shopping
+2023-03-10,Rent,-1000,Monthly rent
+2023-03-15,Utilities,-110,Internet bill
+2023-03-20,Transport,-60,Taxi fare
+2023-03-25,Entertainment,-70,Theater tickets
