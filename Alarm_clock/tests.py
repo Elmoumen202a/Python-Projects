@@ -5,7 +5,7 @@ import pytest
 from alarm_clock import set_alarm 
 
 def test_set_alarm(capsys):
-    # Set the alarm time to the current time plus 1 second for testing purposes
+    # Set the alarm time to the current time plus 1 second for testing purposes.
     alarm_time = (datetime.now() + timedelta(seconds=1)).strftime("%I:%M:%S %p")
     
     # Use a patch to simulate user input
